@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+header {
+  background: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+section {
+  padding: 1rem;
+  margin: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+h1, h2 {
+  color: #4CAF50;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 1rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem 0;
+  background: #f4f4f4;
+  margin-top: 1rem;
+}
